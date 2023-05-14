@@ -204,6 +204,7 @@ img {
   right: 0;
   font-size: 20px;
   background: #ffbc00;
+  color: #fff;
   border-radius: 50%;
   height: 15px;
   width: 15px;
@@ -231,6 +232,7 @@ img {
 }
 #home-c .process-icon:hover .process-step {
   background: #333;
+  color: #fff;
 }
 
 #main-footer {
