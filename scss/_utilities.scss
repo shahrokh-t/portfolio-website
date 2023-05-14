@@ -66,7 +66,7 @@ input[class^="btn-"]:hover {
 }
 
 // Margin
-.py {
+.my {
     &-1 {
         margin: 1rem 0;
     }
@@ -79,4 +79,21 @@ input[class^="btn-"]:hover {
     &-4 {
         margin: 4rem 0;
     }
+}
+
+.section-title {
+    font-size: 2rem;
+    display: block;
+    padding-bottom: 0.5rem;
+    text-align: bottom;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+
+.bottom-line {
+    height: 2px;
+    width: 3rem;
+    background: $main-color;
+    display: block;
+    margin: 0 auto 1rem auto;
 }
