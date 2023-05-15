@@ -3,6 +3,7 @@
 @import "item_grid";
 
 
+
 // General Syles
 * {
     margin: 0;
@@ -392,3 +393,5 @@ img {
     }
 }
 
+// Import Media Queries
+@import "media";
